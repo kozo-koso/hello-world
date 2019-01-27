@@ -1,5 +1,3 @@
 # hello-world
 hello world
-owo whats this
-bruh moment
-
+this repo will probably just be all my newbie beginner projects
